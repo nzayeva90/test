@@ -20,5 +20,5 @@ def molt(x, y):
 print(3, 4)
 
 print("è stata fatta un altra modifica versione 3")
-print("rifacciamo le modifiche")
+print("rifacciamo le modifiche su dev2")
 
