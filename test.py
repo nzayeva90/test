@@ -21,4 +21,5 @@ print(3, 4)
 
 print("è stata fatta un altra modifica versione 3")
 print("rifacciamo le modifiche su dev2")
+print("modifica deve essere fatta dal dev2 al master e poi origin")
 
