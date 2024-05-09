@@ -20,3 +20,5 @@ def molt(x, y):
 print(3, 4)
 print("nuova modifica fatta nel dev2")
 
+print("modifica fatta su origin/master")
+print(versione 3 su origin/master")
