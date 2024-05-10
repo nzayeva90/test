@@ -5,7 +5,6 @@ print("hello 2")
 print("other test")
 
 def sum(x, y):
-    sum = x + y
     return sum
 print(sum(9, 5))
 
