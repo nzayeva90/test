@@ -2,14 +2,12 @@ print("Hello World!!")
 print("hello 2")
 
 
-print("other test")
-def sum(x, y):
-    return x + y
 
 
 print(sum(9, 5))
 print("nuova modifica")
 
+print("proviamo a modificare qua")
 
 def molt(x, y):
     return x * y
