@@ -2,10 +2,14 @@ print("Hello World!!")
 print("hello 2")
 
 
-print("nuova modifica lato dev2, mediamo se dà problemi")
+print("other test")
 
+def sum(x, y):
+    sum = x + y
+    return sum
 print(sum(9, 5))
-print("nuova modifica lato dev2, mediamo se dà problemi")
+
+print("nuova modifica lato dev2, ho fatto le modifiche di concurrency")
 
 print("proviamo a modificare qua")
 
