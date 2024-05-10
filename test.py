@@ -6,7 +6,7 @@ print("other test")
 
 
 def sum(x, y):
-    return sum
+    return x+y
 
 
 print(sum(9, 5))
@@ -20,7 +20,7 @@ def molt(x, y):
     return x * y
 
 
-print(3, 4)
+print(molt(3, 4))
 
 
 print("modifica fatta su origin/master")
